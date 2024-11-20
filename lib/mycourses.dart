@@ -195,8 +195,8 @@ class _MyCoursesWidgetState extends State<MyCoursesWidget> {
                                       padding: EdgeInsets.all(2),
                                       child: ClipRRect(
                                         borderRadius: BorderRadius.circular(10),
-                                        child: Image.network(
-                                          'https://th.bing.com/th/id/OIG3.XUSZlZB7QiEe.0htyvzr?pid=ImgGn',
+                                        child: Image.asset(
+                                          'assets/images/paidcourse.png',
                                           width: double.infinity,
                                           height: 230,
                                           fit: BoxFit.cover,

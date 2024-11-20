@@ -155,8 +155,8 @@ class _PaidcourseWidgetState extends State<PaidcourseWidget>
                                         child: ClipRRect(
                                           borderRadius:
                                               BorderRadius.circular(8),
-                                          child: Image.network(
-                                            'https://th.bing.com/th/id/OIG2.OKHQFS7eNx7dmD1Gm8yt?pid=ImgGn',
+                                          child: Image.asset(
+                                            'assets/images/paidcourse.png',
                                             width: double.infinity,
                                             height: 400,
                                             fit: BoxFit.cover,
