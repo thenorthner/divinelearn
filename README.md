@@ -12,65 +12,59 @@ Here are some glimpses :
 
 ONBOARDING SCREEEN : 
 
-![image](https://github.com/user-attachments/assets/6eac7cc7-37ab-426f-8e61-a18555af029e)
-
-![image](https://github.com/user-attachments/assets/49500b0d-83b1-4c31-bb16-cbc02ff88ea3)
-
-![image](https://github.com/user-attachments/assets/34b91b6e-c665-4977-b2de-f442cede84c0)
 
 AUTHENTICATION SCREEN : 
 
-![image](https://github.com/user-attachments/assets/c6b1c203-5b58-4817-96d6-40f026efee54)
+![Screenshot 2024-04-03 073843](https://github.com/user-attachments/assets/543d0494-6679-429d-b2db-59d3fa8dce35)
 
-![image](https://github.com/user-attachments/assets/053b0f90-363e-4b12-8684-ee584323914e)
+![Screenshot 2024-04-08 000015](https://github.com/user-attachments/assets/50f7dc30-f24f-4969-a0a4-5ae2d81430ce)
 
-![image](https://github.com/user-attachments/assets/5da07530-c40a-42f8-ac4b-edd0cd7191d0)
+![Screenshot 2024-04-08 000045](https://github.com/user-attachments/assets/540b946d-cd21-4683-9e41-92e61b62aedf)
+
 
 HOMESCREEN : 
+![Screenshot 2024-04-08 000747](https://github.com/user-attachments/assets/4cc168c1-6711-4b2d-b833-a9b3be2df01a)
 
-![image](https://github.com/user-attachments/assets/489ce84d-2ed8-40e3-b5c4-06f74319177b)
-
-![image](https://github.com/user-attachments/assets/d11745a3-9b42-438d-b73e-ea9c84e208ae)
-
-![Screenshot 2024-04-06 110753](https://github.com/user-attachments/assets/01942522-e846-4e8d-87a7-c50528b7d3e3)
+![Screenshot 2024-04-08 000826](https://github.com/user-attachments/assets/180c9675-e219-44aa-9c23-0e847f3b805e)
 
 
 PROFILE AND SCREEN SECTION : 
 
-![image](https://github.com/user-attachments/assets/4a1cf908-ac66-46b4-a506-c05bc3aed861)
+![Screenshot 2024-04-08 002404](https://github.com/user-attachments/assets/62d68c6e-c269-4c4d-989a-83b6f6916efa)
 
-![image](https://github.com/user-attachments/assets/2e19fc41-ca88-42a8-9882-d1b810f14832)
+![Screenshot 2024-04-08 002442](https://github.com/user-attachments/assets/4d796fd0-694f-4997-a63c-dbe24f015800)
 
+![Screenshot 2024-04-08 002507](https://github.com/user-attachments/assets/b6c3275a-fd92-4a8a-9724-767896c3f3e1)
 
 My Courses, Feedback Page & Calendar
-![image](https://github.com/user-attachments/assets/01334855-1745-4711-b226-380c9984fe02)
 
-![image](https://github.com/user-attachments/assets/122fa8e7-2a9a-479a-8290-c92ec00c2110)
+![Screenshot 2024-04-08 002918](https://github.com/user-attachments/assets/cadfbbb4-5850-42e7-b332-7d9a8a1d350c)
+
+![Screenshot 2024-04-08 002840](https://github.com/user-attachments/assets/ed9b5eac-ac8a-46f9-9517-22497b1e4a65)
+
+![Screenshot 2024-04-08 003029](https://github.com/user-attachments/assets/e553df55-7a37-44f9-98ec-bf17d1541d58)
 
 
-GUIDED COURSES : 
-![image](https://github.com/user-attachments/assets/5032cc76-69aa-429c-9f74-2fd503bcafb4)
+GUIDED COURSES :
+![Screenshot 2024-04-08 005017](https://github.com/user-attachments/assets/c4c833b5-68c2-42f7-8fdd-89bf2290e20b)
 
-![image](https://github.com/user-attachments/assets/8485cbf0-041b-4b59-a0b7-5c871a4beee4)
+![Screenshot 2024-04-08 005030](https://github.com/user-attachments/assets/dd5135f9-aae8-4e4d-b05b-33554827107c)
 
-![image](https://github.com/user-attachments/assets/49058236-b88a-44d8-a5f2-48c7a9111289)
+![Screenshot 2024-04-08 005331](https://github.com/user-attachments/assets/306c810f-dfe2-469a-9ab2-b7c0aeea43ce)
 
-![image](https://github.com/user-attachments/assets/c00fb0c3-44c9-45e8-8c90-6862a8f35ea9)
+![Screenshot 2024-04-08 005005](https://github.com/user-attachments/assets/d1de83bd-9965-44e1-b417-5af7553e3701)
+
+![Screenshot 2024-04-08 004943](https://github.com/user-attachments/assets/89efc320-51ab-47af-a006-9d17ed2cdc85)
 
 
 BLOGS AND ARTICLES : 
 
-![image](https://github.com/user-attachments/assets/7a689024-de97-4130-bd9c-59baa51cb717)
-
-![image](https://github.com/user-attachments/assets/552089eb-ac5b-4183-8d8a-a523734fae09)
-
-![image](https://github.com/user-attachments/assets/32d1b2c3-5300-4ab7-8da7-65370cf7fa7d)
-
-![image](https://github.com/user-attachments/assets/09f8528c-bf9e-4a24-8ce7-cd0123072ceb)
 
 REWARDS : 
+![Screenshot 2024-04-08 003555](https://github.com/user-attachments/assets/19645f2e-24eb-43cd-b906-49e10aab92b2)
 
-![image](https://github.com/user-attachments/assets/6df8a860-89b1-44eb-8366-d4395757d3eb)
+
+
 
 
 
