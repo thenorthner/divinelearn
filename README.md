@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/0a98e0b0-ca85-43d3-8512-7133ccb81f83)# divinelearn
+# divinelearn
 
 A Frontend Flutter Project
+
 ![Logo Divine Leanr](https://github.com/user-attachments/assets/100003da-e446-4056-afbf-03f3a69ad5be)
 
 
@@ -12,6 +13,11 @@ Here are some glimpses :
 
 ONBOARDING SCREEEN : 
 
+![Screenshot 2024-04-07 235640](https://github.com/user-attachments/assets/be7023d2-2453-4dc0-ade4-ac8dbe3f2eaa)
+
+![Screenshot 2024-04-07 235709](https://github.com/user-attachments/assets/11370a4a-f4d9-483d-acca-7465c815d921)
+
+![Screenshot 2024-04-07 235727](https://github.com/user-attachments/assets/32be730b-f2ac-4295-8164-54392c61dc02)
 
 AUTHENTICATION SCREEN : 
 
@@ -23,6 +29,7 @@ AUTHENTICATION SCREEN :
 
 
 HOMESCREEN : 
+
 ![Screenshot 2024-04-08 000747](https://github.com/user-attachments/assets/4cc168c1-6711-4b2d-b833-a9b3be2df01a)
 
 ![Screenshot 2024-04-08 000826](https://github.com/user-attachments/assets/180c9675-e219-44aa-9c23-0e847f3b805e)
@@ -46,6 +53,7 @@ My Courses, Feedback Page & Calendar
 
 
 GUIDED COURSES :
+
 ![Screenshot 2024-04-08 005017](https://github.com/user-attachments/assets/c4c833b5-68c2-42f7-8fdd-89bf2290e20b)
 
 ![Screenshot 2024-04-08 005030](https://github.com/user-attachments/assets/dd5135f9-aae8-4e4d-b05b-33554827107c)
@@ -59,8 +67,17 @@ GUIDED COURSES :
 
 BLOGS AND ARTICLES : 
 
+![image](https://github.com/user-attachments/assets/db8ad1a1-79d1-411f-bc19-10ebe0ec96d1)
+
+![image](https://github.com/user-attachments/assets/126093a8-918b-4c13-96ad-eaf21b35cf27)
+
+![image](https://github.com/user-attachments/assets/cfffc9e7-62d7-4069-9e4d-fd2ccdba1158)
+
+![image](https://github.com/user-attachments/assets/e3509e66-0892-42b4-856c-3ef833f12d46)
+
 
 REWARDS : 
+
 ![Screenshot 2024-04-08 003555](https://github.com/user-attachments/assets/19645f2e-24eb-43cd-b906-49e10aab92b2)
 
 
