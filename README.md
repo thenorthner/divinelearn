@@ -2,12 +2,31 @@
 
 A Frontend Flutter Project
 
+Here is the apk link : https://drive.google.com/file/d/1xSO6COHKs4gk1v8YMe3aX1utGjF3Lerl/view?usp=sharing
+
 ![Logo Divine Leanr](https://github.com/user-attachments/assets/100003da-e446-4056-afbf-03f3a69ad5be)
 
 
 "Embark on a transformative journey of spiritual growth with our app, offering guided practices,
 insightful teachings, and a supportive community. Earn rewards as you deepen your connection with 
 Krishna consciousness, unlocking exclusive content and personalized guidance along the way."
+
+The development of Divine Learn relied on a suite of modern technologies to ensure
+a seamless, user-friendly experience. Below is a detailed breakdown of the tools and
+frameworks used:
+1. Flutter:
+Flutter, an open-source UI toolkit by Google, was the foundation of the app. Its
+ability to provide a single codebase for Android and iOS applications greatly enhanced development efficiency. Flutter’s hot-reload feature enabled rapid iteration
+during the design and testing phases.
+2. Android Studio:
+Android Studio was utilized as the primary integrated development environment
+(IDE) for coding, debugging, and testing the Flutter application. Its robust tools
+for emulation and device-specific testing ensured the app’s compatibility across
+various Android devices.
+3. Material UI:
+The app followed Google’s Material Design principles to deliver a clean, intuitive,
+and aesthetically pleasing interface. Material UI components were extensively used
+to create responsive layouts, animations, and visual feedback.
 
 Here are some glimpses : 
 
